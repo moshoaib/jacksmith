@@ -1,0 +1,85 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.topfont1{
+    font-weight: 200;
+    font-size: 40px;
+}
+.topfont2{
+    font-weight: 700;
+    font-size: 60px;
+}
+.colorful{
+    color: #ec4c7a;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 8%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.top-banner img{
+    width: 80%;
+}
+.toptext{
+    margin-top: 10%;
+    position: relative;
+    left: 300px;
+}
+section{
+    height: 1050px;
+}
+
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.biography{
+    
+} 
+.latest-work-width{
+    width: 20%;
+    float: left;
+    margin-left: 2%;
+    position: relative; 
+    left: 15%;
+}
+.latest-work-width img{
+    width: 100%;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+#lw-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 5%;
+}
+.client-feedback{
+    background-image: url(images/footer-bg.png);
+    height: 1197px;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(45deg,#EC4F8E, #EC4C78);
+    color: white;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+.biography-text{
+    position: relative;
+    right: 100px;
+    top: 200px;
+}
