@@ -42,9 +42,6 @@ section{
     background-image: url(images/biography-bg.png);
     background-repeat: no-repeat;
 }
-.biography{
-    
-} 
 .latest-work-width{
     width: 20%;
     float: left;
@@ -82,4 +79,24 @@ section{
     position: relative;
     right: 100px;
     top: 200px;
+}
+#ceoname{
+    text-align: center;
+    font-size: 20px;
+}
+#ceodesignation{
+    text-align: center;
+    font-size: 15px;
+    position: relative;
+    bottom: 20px;
+}
+.client-feedback p{
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+}
+.button-contact{
+    text-decoration: none;
+    
+    
 }
